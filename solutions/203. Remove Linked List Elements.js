@@ -17,17 +17,15 @@ var removeElements = function(head, val) {
     if(current.val===val){
       if(prev==null){
         head=current.next;
-        current=current.next;
       }
       else{
       prev.next=current.next;
-     current=current.next;}
+    }
     }
     else{
       prev=current;
-      current=current.next;
     }
-    
+    current=current.next;
     
   }
 return head;
