@@ -17,3 +17,4 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|82 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./solutions/234.%20Palindrome%20Linked%20List.js)|164 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|96 ms|
+|976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[JavaScript](./solutions/976.%20Largest%20Perimeter%20Triangle.js)|104 ms|
