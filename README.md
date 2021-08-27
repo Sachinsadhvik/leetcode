@@ -19,5 +19,6 @@
 |206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[JavaScript](./solutions/206.%20Reverse%20Linked%20List.js)|82 ms|
 |234|[ Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[JavaScript](./solutions/234.%20Palindrome%20Linked%20List.js)|164 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[JavaScript](./solutions/258.%20Add%20Digits.js)|96 ms|
+|739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[JavaScript](./solutions/739.%20Daily%20Temperatures.js)|578 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[JavaScript](./solutions/976.%20Largest%20Perimeter%20Triangle.js)|104 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|92 ms|
