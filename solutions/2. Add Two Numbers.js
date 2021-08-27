@@ -1,18 +1,18 @@
-//             y+=l2.val;
 //         l2=l2.next 
 //         }
 //     }
 ​
-//     m= (parseInt(x)+parseInt(y)).toString().split("")
-//      node= new ListNode(m[0])
-//      p=node.next;
+//     // m= (parseInt(x)+parseInt(y)).toString().split("").reverse()
+//     m=parseInt(x)+parseInt(y).toString()
+//      const before = new ListNode();
+//    let tail = before;
 //     for(let i=0;i<m.length;i++){
        
-//        p= new ListNode(m[i]);
-//        p=p.next
+//        tail.next= new ListNode(m[i]);
+//        tail=tail.next
 //     }
     
-//     return node}
+//     return before.next}
  var addTwoNumbers = function(l1, l2) {
 const before = new ListNode();
   let tail = before;
