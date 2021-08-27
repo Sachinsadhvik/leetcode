@@ -3,7 +3,7 @@
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](./solutions/1.%20Two%20Sum.js)|104 ms|
-|2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./solutions/2.%20Add%20Two%20Numbers.js)|188 ms|
+|2|[ Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[JavaScript](./solutions/2.%20Add%20Two%20Numbers.js)|N/A|
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[JavaScript](./solutions/14.%20Longest%20Common%20Prefix.js)|64 ms|
 |26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[JavaScript](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.js)|132 ms|
 |34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[JavaScript](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js)|72 ms|
