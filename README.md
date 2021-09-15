@@ -18,6 +18,7 @@
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|115 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|96 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20Palindrome.js)|88 ms|
+|129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[JavaScript](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.js)|96 ms|
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[JavaScript](./solutions/147.%20Insertion%20Sort%20List.js)|138 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[JavaScript](./solutions/148.%20Sort%20List.js)|184 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[JavaScript](./solutions/169.%20Majority%20Element.js)|76 ms|
