@@ -33,6 +33,7 @@
 |687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[JavaScript](./solutions/687.%20Longest%20Univalue%20Path.js)|405 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[JavaScript](./solutions/706.%20Design%20HashMap.js)|478 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[JavaScript](./solutions/739.%20Daily%20Temperatures.js)|578 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[JavaScript](./solutions/938.%20Range%20Sum%20of%20BST.js)|310 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[JavaScript](./solutions/976.%20Largest%20Perimeter%20Triangle.js)|104 ms|
 |979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[JavaScript](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.js)|116 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[JavaScript](./solutions/1002.%20Find%20Common%20Characters.js)|72 ms|
