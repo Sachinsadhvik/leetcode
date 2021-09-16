@@ -33,6 +33,7 @@
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[JavaScript](./solutions/706.%20Design%20HashMap.js)|478 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[JavaScript](./solutions/739.%20Daily%20Temperatures.js)|578 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[JavaScript](./solutions/976.%20Largest%20Perimeter%20Triangle.js)|104 ms|
+|979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[JavaScript](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.js)|116 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[JavaScript](./solutions/1002.%20Find%20Common%20Characters.js)|72 ms|
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[JavaScript](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.js)|236 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|92 ms|
