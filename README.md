@@ -17,6 +17,7 @@
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[JavaScript](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.js)|109 ms|
 |105|[ Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[JavaScript](./solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.js)|76 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[JavaScript](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.js)|115 ms|
+|112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[JavaScript](./solutions/112.%20Path%20Sum.js)|117 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.js)|96 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[JavaScript](./solutions/125.%20Valid%20Palindrome.js)|88 ms|
 |129|[ Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[JavaScript](./solutions/129.%20Sum%20Root%20to%20Leaf%20Numbers.js)|96 ms|
