@@ -42,4 +42,5 @@
 |979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[JavaScript](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.js)|116 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[JavaScript](./solutions/1002.%20Find%20Common%20Characters.js)|72 ms|
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[JavaScript](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.js)|236 ms|
+|1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[JavaScript](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.js)|181 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|92 ms|
